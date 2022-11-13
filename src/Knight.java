@@ -1,3 +1,3 @@
 public class Knight {
-    private int damage = 5;
+    private int damage = 3;
 }
